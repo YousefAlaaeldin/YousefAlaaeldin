@@ -28,7 +28,7 @@ I build across the stack, from **PCBs and firmware** to **full-stack apps**, **L
 | Project | |
 | --- | --- |
 | [**School Bus Safety Tracker**](https://github.com/YousefAlaaeldin/school-bus-safety-tracker) | Roll call, live tracking and "10 minutes away" alerts for UAE schools. Expo + Next.js + Supabase (RLS, pgTAP), Arabic/English |
-| [**Tefa Care**](https://github.com/YousefAlaaeldin/tefa-care) | Arabic-first e-commerce store for a medical-supplies client in Libya. Next.js, Drizzle, libSQL |
+| **Tefa Care** (private client repo) | Arabic-first e-commerce store for a medical-supplies client in Libya. Next.js, Drizzle, libSQL |
 
 ---
 
