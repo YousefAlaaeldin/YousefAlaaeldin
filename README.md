@@ -21,7 +21,8 @@ I build across the stack, from **PCBs and firmware** to **full-stack apps**, **L
 | Project | |
 | --- | --- |
 | [**Real-time structural break detection**](https://github.com/YousefAlaaeldin/realtime-structural-break) | ADIA Lab / CrunchDAO: streaming break probabilities from a blend of trees, a GRU and an SVM, with a pretrained "normal behaviour" GRU. Cloud TS-AUC 0.647 |
-| CrunchDAO DataCrunch · CrunchDAO Synth · NFL Big Data Bowl 2027 · Google Quantum AI circuit compilation | *Repos go public when each competition closes* |
+| [**DataCrunch 2**](https://github.com/YousefAlaaeldin/datacrunch-2) | CrunchDAO weekly equity prediction: an XGBoost model aimed at the tails of a mostly-zero target, with walk-forward CV and Newey-West paired tests. CV Pearson 0.047, Sharpe 1.18 |
+| CrunchDAO Synth · NFL Big Data Bowl 2027 · Google Quantum AI circuit compilation | *Repos go public when each competition closes* |
 
 #### 🌐 Apps
 | Project | |
