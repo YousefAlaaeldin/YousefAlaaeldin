@@ -7,7 +7,7 @@ I build across the stack, from **PCBs and firmware** to **full-stack apps**, **L
 #### 🔌 Hardware
 | Project | |
 | --- | --- |
-| [**Smart Vent**](https://github.com/YousefAlaaeldin/smart-vent) | Connected HVAC vent: a 4-layer ESP32-C6 board plus snap-in sensor pucks, designed *as code* (SKiDL → scripted checks against datasheet evidence → SPICE → KiCad) |
+| [**Smart Vent**](https://github.com/YousefAlaaeldin/smart-vent-v2) | Connected HVAC vent: a 4-layer ESP32-C6 board plus snap-in sensor pucks, designed *as code* (SKiDL → scripted checks against datasheet evidence → SPICE → KiCad) |
 | [**Throat-mic**](https://github.com/YousefAlaaeldin/throat-mic) | Private conversation system using contact sensors, BLE and bone conduction (concept stage) |
 | [**tiny-gpu** (fork)](https://github.com/YousefAlaaeldin/tiny-gpu) | Verilog GPU: my fix for a partial-last-block hang, plus a vector-subtract kernel test |
 
