@@ -1,6 +1,6 @@
 ### Hi, I'm Yousef 👋
 
-I build across the stack, from **electric and embedded systems starting with circuits and PCBs and firmware** to **full-stack apps**, **LLM agents** and **quant/ML research**. I like to build and do things that interest me
+I build across the stack, from **electric and embedded systems starting with circuits and PCBs and firmware** to **web apps**, **LLM agents** and **quant/ML research**. I like to build and do things that interest me
 
 ---
 
